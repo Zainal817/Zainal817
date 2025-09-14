@@ -1,4 +1,4 @@
-# Hi, I'm John Clark 👋
+# Hi, I'm Muhammad Zainal Arifin 👋
 
 Welcome to my GitHub profile!  
 I am a **Fullstack App & Blockchain Developer** passionate about building decentralized applications (dApps) and modern web apps.
@@ -35,15 +35,15 @@ I am a **Fullstack App & Blockchain Developer** passionate about building decent
 
 ## 📈 GitHub Stats
 
-![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnClark&show_icons=true&theme=radical)
+![Muhammad Zainal Arifin's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadZainalArifin&show_icons=true&theme=radical)
 
 ---
 
 ## 📫 Contact Me
 
-- Email: john@example.com  
-- LinkedIn: [linkedin.com/in/johnclark](https://www.linkedin.com/in/johnclark)  
-- Twitter: [@JohnClarkDev](https://twitter.com/JohnClarkDev)
+- Email: your-email@example.com  
+- LinkedIn: [linkedin.com/in/muhammadzainalarifin](https://www.linkedin.com/)  
+- Twitter: [@YourTwitter](https://twitter.com/)
 
 ---
 
