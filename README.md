@@ -46,7 +46,6 @@ I am a **Fullstack App & Blockchain Developer** passionate about building decent
 | 🥉 | Contributed to open-source blockchain projects |
 | 💎 | Developed token swap & NFT marketplace apps |
 | 🚀 | Improved app performance & scalability in production |
-
 ---
 
 ## 📫 Contact Me
