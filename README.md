@@ -58,4 +58,3 @@ I am a **Fullstack App & Blockchain Developer** passionate about building decent
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
