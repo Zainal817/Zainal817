@@ -40,13 +40,6 @@ I am a **Fullstack App & Blockchain Developer** passionate about building decent
 <table align="center" border="0">
   <tr>
     <td>
-      <a href="https://git.io/streak-stats">
-        <img 
-          src="https://streak-stats.demolab.com/?user=lucifron28&theme=highcontrast" 
-          alt="GitHub Streak" 
-          width="400"
-        />
-      </a><br />
       <img 
         src="https://github-readme-stats.vercel.app/api?username=Zainal817&show_icons=true&theme=highcontrast&include_all_commits=false" 
         alt="GitHub Stats" 
