@@ -3,7 +3,7 @@
 # Hi, I'm Muhammad Zainal Arifin 👋
 
 Welcome to my GitHub profile!  
-I am a **Fullstack App & Blockchain Developer** passionate about building decentralized applications (dApps), smart contracts, and modern web apps.
+I am a **Software Engineer** passionate about building decentralized applications (dApps), smart contracts, and modern web apps.
 
 ---
 
