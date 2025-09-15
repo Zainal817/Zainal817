@@ -37,6 +37,36 @@ I am a **Fullstack App & Blockchain Developer** passionate about building decent
 
 ---
 
+<table align="center" border="0">
+  <tr>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://streak-stats.demolab.com/?user=lucifron28&theme=highcontrast" 
+          alt="GitHub Streak" 
+          width="400"
+        />
+      </a><br />
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=lucifron28&show_icons=true&theme=highcontrast&include_all_commits=false" 
+        alt="GitHub Stats" 
+        width="400"
+      />
+    </td>
+    <td>
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucifron28&hide_progress=false&theme=highcontrast&langs_count=7&exclude_repo=Python_Keylogger&hide=HTML,CSS" 
+      alt="Top Languages" 
+      width="300" 
+      height="auto"
+    />
+    </td>
+  </tr>
+</table>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lucifron28&theme=tokyonight&row=1&column=6" alt="GitHub Trophies" />
+</div>
+
 ## 🏆 Achievements
 
 | Medal | Achievement |
