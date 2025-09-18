@@ -77,7 +77,7 @@ I am a **Software Engineer** passionate about building decentralized application
 
 - Web: https://muhammadzain.site/
 - Email: appfoundry104@gmail.com
-- LinkedIn: https://www.linkedin.com/in/muhammad-zainal-arifin
+- LinkedIn: https://www.linkedin.com/in/muhammad-zainal0817
 - Instagram: https://www.instagram.com/muhamadzain.ariefin
 - Twitter: https://twitter.com/Penulisduduk
 
