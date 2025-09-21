@@ -1,6 +1,6 @@
 
 
-# Hi, I'm Muhammad Zainal Arifin 👋
+# Hi, I'm Muhammad Zainal 👋
 
 Welcome to my GitHub profile!  
 I am a **Software Engineer** passionate about building decentralized applications (dApps), smart contracts, and modern web apps.
