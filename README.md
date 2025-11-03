@@ -74,10 +74,3 @@ I am a **Software Engineer** passionate about building decentralized application
 | 🚀 | Improved app performance & scalability in production |
 ---
 
-## 📫 Contact Me
-
-- Web: https://muhammadzain.my.id/
-- Email: appfoundry104@gmail.com
-
----
-
